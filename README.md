@@ -33,7 +33,7 @@ For advanced builders, the following optional features are available:
 ## Files
 
 ### CAD
-Complete Fusion 360 files are included in the CAD folder. Beware, there a upwards of 100 files in the Fusion 360 Archive (.f3z).
+Complete Fusion 360 files are included in the initial release. Beware, there a upwards of 100 files in the Fusion 360 Archive (.f3z).
 
 ### STLs
 STL files ...soon

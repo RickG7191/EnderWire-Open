@@ -32,7 +32,7 @@ For advanced builders, the following optional features are available:
 - See Build Notes below.
 
 ![EnderWire Open](/Images/EnderWire-Open.png)
-![EnderWire Open](/Images/Back.png)
+![Back View](/Images/Back.png)
 
 ## Files
 

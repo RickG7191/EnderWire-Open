@@ -26,9 +26,13 @@ Features of this conversion include:
 
 ### Advanced Builder Features
 For advanced builders, the following optional features are available:
-- Below deck KeyBak with tension adjustment
+- Below deck Key-Bak assembly with tension adjustment
 - Lightened stock bed plate plus alternate Y-carriage
 - Custom Z-endstop switch and bracket
+- See Build Notes below.
+
+![EnderWire Open](/Images/EnderWire-Open.png)
+![EnderWire Open](/Images/Back.png)
 
 ## Files
 
@@ -36,7 +40,11 @@ For advanced builders, the following optional features are available:
 Complete Fusion 360 files are included in the initial release. Beware, there a upwards of 100 files in the Fusion 360 Archive (.f3z).
 
 ### STLs
-STL files ...soon
+STL files for all components except Stealthburner and Mini12864 are included ini the STL folder.
 
-![EnderWire Open](/Images/EnderWire-Open.png)
-![EnderWire Open](/Images/Back.png)
+## Build Notes
+- The feet are from [Amazon](https://www.amazon.com/gp/product/B00S47D52G/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- The Key-Bak assembly useds the spring and 36" Kevlar cord from the regular [13oz Key-Bak](https://www.amazon.com/dp/B0088MQA10?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- The servo used for the Z-probe dock is a TowerPro MG92B from [Adafruit](https://www.adafruit.com/product/2307). I believe an MG90s will also work.
+- A modified version of the PCB Klicky probe body and dock are used. The probe has a guard plate that assists with clean docking. The guard plate fits 0.25in x 0.125in countersunk magnets rather than the spec 6mm x 3mm. This is the size I recieved with the kits I purchased. The guard just press fits around the magnets. Glue may be needed.
+- The custom z-endstop currently requires a custom PCB to mount the microswitch. Additionally, the support arm for the z-endstop is fabricated from 3mm FR4 / G10 for stiffness.

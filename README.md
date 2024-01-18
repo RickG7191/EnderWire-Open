@@ -26,7 +26,7 @@ Features of this conversion include:
 
 ### Advanced Builder Features
 For advanced builders, the following optional features are available:
-- Below deck Key-Bak assembly with tension adjustment
+- Below deck Key-Bak assembly with tension adjustment - [Key-Bak Details](Key-Bak-Details.md)
 - Lightened stock bed plate plus alternate Y-carriage
 - Custom Z-endstop switch and bracket
 - See Build Notes below.

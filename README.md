@@ -43,6 +43,7 @@ Complete Fusion 360 files are included in the initial release. Beware, there a u
 STL files for all components except Stealthburner and Mini12864 are included ini the STL folder.
 
 ## Build Notes
+- See [Frame and Gantry Details](Frame-Gantry-Details.md) for information on frame alterations plus gantry idler and belt details.
 - The feet are from [Amazon](https://www.amazon.com/gp/product/B00S47D52G/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - The Key-Bak assembly uses the spring and 36" Kevlar cord from the regular [13oz Key-Bak](https://www.amazon.com/dp/B0088MQA10?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - The servo used for the Z-probe dock is a TowerPro MG92B from [Adafruit](https://www.adafruit.com/product/2307). I believe an MG90s will also work.

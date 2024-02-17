@@ -42,6 +42,9 @@ Complete Fusion 360 files are included in the initial release. Beware, there a u
 ### STLs
 STL files for all components except Stealthburner and Mini12864 are included ini the STL folder.
 
+## Bill of Materials
+[BOM by Component](BOM-By-Component.md)
+
 ## Build Notes
 - See [Frame and Gantry Details](Frame-Gantry-Details.md) for information on frame alterations plus gantry idler and belt details.
 - The feet are from [Amazon](https://www.amazon.com/gp/product/B00S47D52G/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)

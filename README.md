@@ -37,7 +37,8 @@ For advanced builders, the following optional features are available:
 ## Files
 
 ### CAD
-Complete Fusion 360 files are included in the initial release. Beware, there a upwards of 100 files in the Fusion 360 Archive (.f3z).
+Complete Fusion 360 files are included in the initial release. Beware, there a upwards of 100 files in the Fusion 360 Archive (.f3z).  
+A complete STEP file is included in the CAD folder.
 
 ### STLs
 STL files for all components except Stealthburner and Mini12864 are included ini the STL folder.
